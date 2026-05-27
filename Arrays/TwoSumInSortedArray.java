@@ -8,7 +8,7 @@ in addition to that it is mentioned that array is sorted. so if temp sum is high
 
 */
 
-class AMoveZeroesToEnd {
+class TwoSumInSortedArray {
     public int[] twoSum(int[] nums, int target) {
         int i=0;
         int j=nums.length-1;
